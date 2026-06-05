@@ -1,0 +1,24 @@
+  {
+  "ads_priority": "1",
+  "fb_app_id": "",
+  "fb_client_token": "",
+  "first_open_app": "ca-app-pub-3940256099942544/9257395921",
+  "common_open_app": "ca-app-pub-3940256099942544/9257395921",
+  "native_ad1": "ca-app-pub-3940256099942544/2247696110",
+  "native_ad2": "ca-app-pub-3940256099942544/2247696110",
+  "interstitial_ad1": "ca-app-pub-3940256099942544/1033173712",
+  "interstitial_ad2": "ca-app-pub-3940256099942544/1033173712",
+  "dialog_show": "0",
+  "affiliate_weburl1": "https://www.google.com/",
+  "affiliate_weburl2": "",
+  "affiliate_weburl3": "",
+  "affiliate_weburl4": "",
+  "affiliate_img_list": [ 
+    "https://picsum.photos/320/100",
+    "https://placehold.co/320x100/png"
+  ],
+  "native_count": "1",
+  "inter_count": "1",
+  "calc_native_count": "1",
+  "calc_inter_count": "1"
+}
