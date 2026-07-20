@@ -19,8 +19,8 @@
     "",
     ""
   ],
-  "native_count": "1",
+  "native_count": "100",
   "inter_count": "2",
-  "calc_native_count": "1",
+  "calc_native_count": "100",
   "calc_inter_count": "2"
 }
